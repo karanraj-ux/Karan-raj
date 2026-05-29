@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PrintDrop",
+  "description": "A minimalist local file receiver for shopkeepers to get files from customers via QR Code, with auto-delete after 6 hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
